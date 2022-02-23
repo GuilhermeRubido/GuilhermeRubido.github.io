@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Guilherme Rubido</title>
+</head>
+<body>
+    <h1>Guilherme Rubido</h1>
+
+    <img src="./fc0f5dbe-2b35-4604-aa74-076cb3a95026.jpeg" alt="Uma foto minha no espelho."  width="300px" >
+
+    <h2>Sobre mim:</h2>
+
+    <p> Tenho 22 anos e moro em Santos, São Paulo, local onde nasci. 
+        <br>
+        Atualmente sou estudante de <strong> Desenvolvimento Web <strong> na </strong>Trybe</strong> </p>
+
+        <h2>Alguns lugares onde você pode me achar:</h2>
+        <a href="https://www.linkedin.com/in/guilherme-rubido-954ba8231/" target="_blank">Linkedin</a>
+        <br><br>
+        <a href="https://github.com/GuilhermeRubido"target="_blank">GitHub</a>
+
+    <h2>Algumas habilidaes:</h2>
+    <ul>
+        <li>Foco</li>
+    <li>Disciplina</li>
+    <li>Ambição</li>
+    </ul>
+    
+<h2>Espero que tenha gostado! :)</h2>
+
+    </body>
+</html>
